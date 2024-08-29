@@ -1,0 +1,154 @@
+{
+  "Header": {
+    "title": "Crafting Digital Solutions with Precision",
+    "paragraph": "Your Trusted Partner for Software Development, Web Development, Mobile app development and Staffing."
+  },
+  "About": {
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-laptop",
+      "name": "Web Development",
+      "text": "We deliver web apps on various technologies Java, .Net, Php, Node.js & Python."
+    },
+    {
+      "icon": "fa fa-mobile",
+      "name": "Mobile App Development",
+      "text": "We offer mobile app for both Android & IOS with various tech like React Native, Flutter."
+    },
+    {
+      "icon": "fa fa-file-code-o",
+      "name": "UI/UX Design",
+      "text": "We are capable of providng best UI expeirence on following Angular, React."
+    },
+    {
+      "icon": "fa fa-arrow-circle-o-up",
+      "name": "Migration",
+      "text": "If you are lacking behind with old and outdated technologies, then we hold your back."
+    },
+    {
+      "icon": "fa fa-user-plus",
+      "name": "Staffing",
+      "text": "You need developers, we are here to serve you the best developers that not only develops but are goot at problem solving."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
